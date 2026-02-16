@@ -1,0 +1,7 @@
+{
+  "name": "SER-CNN: Speech Emotion Recognition",
+  "description": "An advanced Speech Emotion Recognition (SER) system that utilizes spectrogram analysis and deep learning models to identify emotional states like happy, sad, and angry from audio inputs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
